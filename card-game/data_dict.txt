@@ -1,1 +1,0 @@
-{"anchors": 0, "blue_more": 0, "houses": 0, "crosses": 0, "green_more": 0, "extra_money_notrade": 0, "extra_money_fivecards": 0, "expeditions": 0, "yellow_more": 0, "jokers": 0, "gold": 3, "points": 0, "pay_less": 0, "black_more": 0, "sabres": 0, "extra_card": 0, "red_more": 0}
